@@ -4,17 +4,17 @@ Skill Tracker | SDG 4: Quality Education
 
 Team roles:
 
-Bryan - UI Sketches
+Bryan - Scrum master 
 
-Cody - Sprint review
+Cody - Developer
 
-Hashim - Prototyping
+Hashim - Developer
 
-Hasnein - Sprint planning
+Hasnein - Product Owner 
 
-Zaman - Prototyping
+Zaman - Developer
 
-Zubayr - UI Sketches
+Zubayr - Developer 
 
 Our project is a Skill Tracker that helps users keep track of the various skills they possess, which could be useful in their workplaces, while poviding courses that help nurture these skills. These skills can vary from different languages to technical ability. Therefore, recruiters from companies can also view the skillset of different users based on what they would require. The app acts as a platform for users to gain different skills while also having a platform to show their abilities and get hired based on them, which encourages education alongside its benefits, as they are more likely to be hired for what they have learned.
 
